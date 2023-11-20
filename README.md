@@ -9,6 +9,4 @@ Desenvolvimento de uma aplicação WEB API escrita em linguagem de programação
 * Projeto: Maven
 * Banco de dados: SQLServer
 
-### Acesso ao projeto #1
-<a href="https://github.com/vctr-moraes/projeto-da-disciplina-arquitetura-java" target="_blank">Projeto #1</a>
---
+### Acesso ao <a href="https://github.com/vctr-moraes/projeto-da-disciplina-arquitetura-java" target="_blank">Projeto #1</a>
